@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/your-repo-name/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/your-repo-name" alt="Issues">
+  <a href="https://github.com/A-KingSlayer20/Img_Processing_IIITN/issues">
+    <img src="https://github.com/A-KingSlayer20/Img_Processing_IIITN" alt="Issues">
   </a>
   <a href="https://github.com/yourusername/your-repo-name/stargazers">
     <img src="https://img.shields.io/github/stars/yourusername/your-repo-name" alt="Stars">
