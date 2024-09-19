@@ -51,6 +51,5 @@ This repository contains various digital image processing algorithms implemented
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/A-KingSlayer20/Img_Processing_IIITN
 pip install -r requirements.txt
